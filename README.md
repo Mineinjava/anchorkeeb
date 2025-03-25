@@ -1,4 +1,4 @@
-# anchorkeeb
+# [anchorkeeb](https://github.com/Mineinjava/anchorkeeb/tree/main)
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/6dde7874-25b8-41e8-a92c-60e0eb8c450b" />
 
 Split mechanical keyboard. Ortholinear layout. One display, one encoder, 4x6 + 3 keys per half.
